@@ -34,4 +34,4 @@ Open_calculator
 
 
 
-#Write on terminal: robot --include=calculator -d PycharmOutput --loglevel TRACE mobile_test.robot
+#Write on terminal: robot --include=calculator -d PycharmOutput --loglevel TRACE simplcalc_test.robot
