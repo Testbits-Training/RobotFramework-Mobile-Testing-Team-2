@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d889313e-3c7f-42e4-afc9-ca949e13c9d2" name="Changes" comment="" />
+    <list default="true" id="d889313e-3c7f-42e4-afc9-ca949e13c9d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmOutput/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmOutput/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmOutput/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplcacl_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/simplcacl_test.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$bile Testing with Robot Framework.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +19,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github/pakwan-oranghrm-personal/mobile_pycharm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Github/RobotFramework-Mobile-Testing-Team-2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="mobile_pycharm" type="Python.DjangoServer" factoryName="Django server">
       <module name="mobile_pycharm" />
@@ -74,6 +82,11 @@
       <workItem from="1659058366703" duration="2181000" />
       <workItem from="1659314258339" duration="8116000" />
       <workItem from="1659400978598" duration="2884000" />
+      <workItem from="1659661760623" duration="104000" />
+      <workItem from="1659661867254" duration="273000" />
+      <workItem from="1659662150404" duration="205000" />
+      <workItem from="1659662363546" duration="15000" />
+      <workItem from="1659672494010" duration="1638000" />
     </task>
     <servers />
   </component>
