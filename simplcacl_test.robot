@@ -29,9 +29,9 @@ Test_additional
 *** Keywords ***
 
 Open_calculator
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${emulator}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic autoGrantPermissions=true
 
 
 
 
-#Write on terminal:  robot --include=calculator -d PycharmOutput --log TRACE  simplcacl_test.robot
+#Write on terminal:  robot --include=calculator -d RobotReport --log TRACE  simplcacl_test.robot

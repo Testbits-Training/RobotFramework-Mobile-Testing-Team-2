@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d889313e-3c7f-42e4-afc9-ca949e13c9d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmOutput/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmOutput/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/output.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmOutput/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmOutput/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/calendar_test.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simplcacl_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/simplcacl_test.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$bile Testing with Robot Framework.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +31,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Github/RobotFramework-Mobile-Testing-Team-2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "last_opened_file_path": "E:/Github/pakwan-oranghrm-personal/testbits/mobile_pycharm",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,6 +83,8 @@
       <workItem from="1659662150404" duration="205000" />
       <workItem from="1659662363546" duration="15000" />
       <workItem from="1659672494010" duration="1638000" />
+      <workItem from="1659917605586" duration="1686000" />
+      <workItem from="1659921988247" duration="324000" />
     </task>
     <servers />
   </component>

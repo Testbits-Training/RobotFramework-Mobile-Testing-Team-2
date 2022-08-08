@@ -23,7 +23,7 @@ open_app
 
 *** Keywords ***
 open_calendaer
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=pl.mb.calendar    appActivity=pl.mb.calendar.FullActivity
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=pl.mb.calendar    appActivity=pl.mb.calendar.FullActivity autoGrantPermissions=true
     wait until page contains element    id=pl.mb.calendar:id/action_bar_root
     sleep   5
 
