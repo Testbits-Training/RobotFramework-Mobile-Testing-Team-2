@@ -29,9 +29,9 @@ Test_additional
 *** Keywords ***
 
 Open_calculator
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${emulator}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic autoGrantPermissions=true
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${emulator}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic     autoGrantPermissions=true
 
 
 
 
-#Write on terminal:  robot --include=calculator -d RobotReport --log TRACE  simplcacl_test.robot
+#Write on terminal:  robot --include=calculator -d RobotOutput --output SimplCalc_output --log SimplCalc_log --report SimplCalc_report  01_simplcacl_test.robot

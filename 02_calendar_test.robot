@@ -12,20 +12,20 @@ ${emulator}     emulator-5554
 
 open_app
     [Tags]    calendar
-    open_calendaer
+    open_calendar
     click element       id=pl.mb.calendar:id/mNewEvent
     wait until page contains element    id=pl.mb.calendar:id/action_bar_root
-    input text      id=pl.mb.calendar:id/editText2      entahlah nak
+    input text      id=pl.mb.calendar:id/editText2      testing-testing
     click element   id=pl.mb.calendar:id/mAdd
 
 
 
 
 *** Keywords ***
-open_calendaer
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=pl.mb.calendar    appActivity=pl.mb.calendar.FullActivity autoGrantPermissions=true
+open_calendar
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=pl.mb.calendar    appActivity=pl.mb.calendar.FullActivity      autoGrantPermissions=true
     wait until page contains element    id=pl.mb.calendar:id/action_bar_root
     sleep   5
 
 
-#Write at terminal:  robot --include=calendar -d PycharmOutput --loglevel TRACE calendar_test.robot
+#Write at terminal:  robot --include=calendar -d RobotOutput --output SimplCalc_output --log SimplCalc_log --report SimplCalc_report 02_calendar_test.robot
