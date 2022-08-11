@@ -5,8 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/00_OpenApplication.robot" beforeDir="false" afterPath="$PROJECT_DIR$/00_OpenApplication.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_simplcacl_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/01_simplcacl_test.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_calendar_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/02_calendar_test.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotReport/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RobotReport/output.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github/RobotFramework-Mobile-Testing-Team-2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Github/RobotFramework-Mobile-Testing-Team-2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="mobile_pycharm" type="Python.DjangoServer" factoryName="Django server">
       <module name="mobile_pycharm" />
@@ -93,7 +95,7 @@
       <workItem from="1660030062178" duration="695000" />
       <workItem from="1660093470564" duration="3234000" />
       <workItem from="1660170694733" duration="543000" />
-      <workItem from="1660171305763" duration="3292000" />
+      <workItem from="1660171305763" duration="10794000" />
     </task>
     <servers />
   </component>

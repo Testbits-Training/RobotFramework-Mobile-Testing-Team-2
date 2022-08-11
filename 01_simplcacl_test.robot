@@ -29,7 +29,7 @@ Test_additional
 *** Keywords ***
 
 Open_calculator
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic     autoGrantPermissions=true
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${emulator}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic     autoGrantPermissions=true
     wait until page contains element    id=com.everydaycalculation.casiocalculator:id/mainLayout
 
 
