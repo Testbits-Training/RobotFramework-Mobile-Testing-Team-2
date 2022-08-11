@@ -10,13 +10,14 @@ ${emulator}     emulator-5554
 
 *** Test Cases ***
 
-open_airasia
-    [Tags]    airasia
-    Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=com.airasia.mobile   appActivity=com.airasia.mobile.MainActivity2      autoGrantPermissions=true
+open_calculator
+    [Tags]    calc
+    Open Application    ${host}    platformName=${platAndroid}    deviceName=${emulator}     appPackage=com.everydaycalculation.casiocalculator   appActivity=com.everydaycalculation.casiocalculator.Basic     autoGrantPermissions=true
+    wait until page contains element    id=com.everydaycalculation.casiocalculator:id/mainLayout
 
 open_camera
     [Tags]    camera
     Open Application    ${host}    platformName=${platAndroid}    deviceName=${redmi9}    appPackage=net.sourceforge.opencamera   appActivity=net.sourceforge.opencamera.MainActivity       autoGrantPermissions=true
 
 
-#Write on terminal:  robot --include=airasia -d RobotReport --log airasia_TRACE --report airasia_report 00_OpenApplication.robot
+#Write on terminal:  robot --include=calc -d RobotReport --log calc_TRACE --report calc_report 00_OpenApplication.robot

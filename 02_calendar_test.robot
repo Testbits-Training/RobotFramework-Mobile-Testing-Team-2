@@ -28,4 +28,4 @@ open_calendar
     sleep   5
 
 
-#Write at terminal:  robot --include=calendar -d RobotOutput --output SimplCalc_output --log SimplCalc_log --report SimplCalc_report 02_calendar_test.robot
+#Write at terminal:  robot --include=calendar -d RobotOutput --output Calendar_output --log Calendar_log --report Calendar_report 02_calendar_test.robot

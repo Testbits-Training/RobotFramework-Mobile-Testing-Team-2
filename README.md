@@ -25,6 +25,7 @@ You can refer to 'Mobile Testing with Robot Framework.docx' for more detail
 
 You can refer to 'Mobile Testing with Robot Framework.docx' for tutorial and this projcet use simplcalc.robot script file as tutorial testing
 
+For more documentation about Appiu Keywords, visit http://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Input%20Value
 
 ## List of Features Testing for Simple Calculator and Calendar Apps
 
