@@ -12,7 +12,7 @@ You can refer to 'Mobile Testing with Robot Framework.docx' for more detail
 5. Install Robotframework on command prompt:
    `pip install robotframework`
 6. Install Appium Library on command prompt:
-   `pip install robotframework-appiumlibrary
+   `pip install robotframework-appiumlibrary`
    
    `Note: If you have install selenium ver 4. You need to uninstall it because appium only compatible with selenium 3.140. You just unistall selenium and after that just install appium. When appium is installed, it will install selenium 3.140 automatically `
    
