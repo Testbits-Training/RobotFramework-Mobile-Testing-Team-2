@@ -1,9 +1,9 @@
 # Mobile Testing with Robot Framework
 
+You can refer to 'Mobile Testing with Robot Framework.pdf' for more detail
 
 ## Prerequisite:
 
-You can refer to 'Mobile Testing with Robot Framework.docx' for more detail
 
 1. Java JDK 8 : https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html.
 2. Android Studio: https://developer.android.com/studio
