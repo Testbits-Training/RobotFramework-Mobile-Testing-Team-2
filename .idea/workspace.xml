@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d889313e-3c7f-42e4-afc9-ca949e13c9d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_OpenApplication.robot" beforeDir="false" afterPath="$PROJECT_DIR$/00_OpenApplication.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_simplcacl_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/01_simplcacl_test.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_output.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RobotOutput/SimplCalc_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/RobotOutput/SimplCalc_report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RobotReport/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RobotReport/output.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d889313e-3c7f-42e4-afc9-ca949e13c9d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Github/RobotFramework-Mobile-Testing-Team-2",
+    "last_opened_file_path": "D:/Syazwan/GitHub/RobotFramework-Mobile-Testing-Team-2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -96,6 +88,7 @@
       <workItem from="1660093470564" duration="3234000" />
       <workItem from="1660170694733" duration="543000" />
       <workItem from="1660171305763" duration="10794000" />
+      <workItem from="1664333537833" duration="594000" />
     </task>
     <servers />
   </component>
