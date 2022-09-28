@@ -26,9 +26,12 @@ You can refer to 'Mobile Testing with Robot Framework.pdf' for more detail
 3. Open Apllication Testing
 4. Input and Output Validation Testing 
 
-You can refer to 'Mobile Testing with Robot Framework.docx' for tutorial and this projcet use simplcalc.robot script file as tutorial testing
+You can refer to 'Mobile Testing with Robot Framework.pdf' for tutorial and this projcet use simplcalc.robot script file as tutorial testing
 
 For more documentation about Appiu Keywords, visit http://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html#Input%20Value
+
+## Note 
+If you get error when open emulator due to HAX installation, you can refer https://stackoverflow.com/questions/32795704/failed-to-install-haxm-during-android-studio-installation
 
 ## List of Features Testing for Simple Calculator and Calendar Apps
 
